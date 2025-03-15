@@ -1,0 +1,1 @@
+common_treasure = ["Coal", "Fire Charge", "Bottle o' Enchanting", "Bag of Redstone", "Contraband Rucksack", "Spectral Arrows"]
