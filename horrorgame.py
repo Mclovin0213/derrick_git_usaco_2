@@ -1,7 +1,32 @@
+survivors = {
+    "Noob": {
+        "health": 100,
+        "stamina": 100,
+        "abilities": ["bloxy cola", "slateskin potion", "ghostburger"]
+    },
+    "Two Time": {
+        "health": 80,
+        "stamina": 100,
+        "abilities": ["resurrection"]
+    },
+    "007n7": {
+        "health": 100,
+        "stamina": 100,
+        "abilities": ["clone", "c00lgui", "inject"]
+    },
+    "Chance": {
+        "health": 90,
+        "stamina": 100,
+        "abilities": ["coin flip", "shoot", "reroll", "hat fix"]
+    }
+}
+
+
 def main_game():
     print("Loading goofyahhhorrorgame.exe...")
     print("GoofyAhhHorrorGame.exe has been launched.")
     print("Continuing to file...")
+
 def entity_dossiers():
     bell_head = '''
     Entity 001: The Bell Head
